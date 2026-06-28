@@ -89,10 +89,6 @@ HexSoftwares_MusicPlayer/
 
 No build tools required.
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/<your-username>/HexSoftwares_MusicPlayer.git
-cd HexSoftwares_MusicPlayer
 ```
 
 Then either:
@@ -167,7 +163,7 @@ That's the only change needed — the `AudioFileEngine` implements the same inte
 
 ## 🙌 Credits
 
-- **Developer:** *<Your Name>* — HEX Softwares Web Development Intern
+
 - **Fonts:** [Bricolage Grotesque](https://fonts.google.com/specimen/Bricolage+Grotesque) & [Inter](https://fonts.google.com/specimen/Inter) via Google Fonts
 - **Audio:** Original generative compositions synthesized with the [Web Audio API](https://developer.mozilla.org/docs/Web/API/Web_Audio_API)
 - **Icons:** Hand-built inline SVG
@@ -182,7 +178,7 @@ Built as **Project 1** for the **HEX Softwares Internship Program**.
 Released under the **MIT License** — free to use, modify, and learn from.
 
 ```
-MIT License · Copyright (c) 2025 <Your Name>
+MIT License ·
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction…
